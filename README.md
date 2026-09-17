@@ -1,4 +1,4 @@
-# flame-flame-fruit — Colorado wildfire risk prediction
+# Mera Mera no Mi — Colorado wildfire risk prediction
 
 Predicts the daily probability of wildfire activity for every 4 km × 4 km grid cell in Colorado from weather, terrain, and fire-history data, and shows the result on an interactive map. Built by two students to help a local fire department think about where risk is concentrating — it is a research prototype, not an operational tool.
 
